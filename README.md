@@ -10,4 +10,4 @@
 
 - Referencial dos 19 links usados Academy e IEEE - Este arquivo nós referenciamos todos os 19 links que entraram no nosso critério de busca.
 
-- Referencial dos 19 links usados Academy e IEEE - Este artigo é o resultado. 
+- Sintetização dos artigos selecionados - Aqui é a sintetização de todos os 19 links
